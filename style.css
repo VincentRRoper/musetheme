@@ -516,10 +516,9 @@ body .hide {
     /*display: none;*/
 /*}*/
 .logo-bg {
-    
-        position: absolute;
-        left: 50px;
-        right: auto;
+    position: absolute;
+    left: 50px;
+    right: auto;
     bottom: 0;
     top: 0;
     background: transparent linear-gradient(180deg, #4A4A4A 0%, #0F0F0F 100%) 0% 0% no-repeat padding-box;
